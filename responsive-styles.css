@@ -1,0 +1,6 @@
+/* Responsive CSS for different devices */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
